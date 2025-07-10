@@ -1,7 +1,9 @@
-
+import Header from "/home/janewmwaura/personalprojectportfolio/estateproject/RealEstate-web-starterpack/src/components/Header/Header.jsx";
 function App() {
   return (
-    <span>subscribe Zainkeepscode</span>
+    <div className="App">
+      <Header/>
+    </div>
   );
 }
 
