@@ -2,6 +2,7 @@ import Header from "/home/janewmwaura/personalprojectportfolio/estateproject/Rea
 import Hero from "./components/Hero/Hero";
 import './App.css';
 import Companies from "./components/Companies/Companies";
+import Residencies from "./components/Residencies/Residencies";
 function App() {
   return (
     <div className="App">
@@ -11,6 +12,7 @@ function App() {
       <Hero/>
       </div>
       <Companies/>
+      <Residencies/>
     </div>
   );
 }

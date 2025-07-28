@@ -1,6 +1,6 @@
 import React from 'react';
 import './Companies.css';
-const Companies = () => {
+const Companies = () => { 
   return (
     <section className="c-wrapper">
         <div className='paddings innerwidth flexCenter c-container'>
